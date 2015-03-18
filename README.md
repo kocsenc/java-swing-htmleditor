@@ -6,7 +6,7 @@ A simple editor for HTML files.
 
 Basic Design can be found at
 
-	`design.pdf`
+	design.pdf
 
 	This design document is the formal detail documentation covering the
 	overview requiements, UML Class diagrams, design pattern usage and others.
